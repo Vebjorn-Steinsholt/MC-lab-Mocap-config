@@ -1,0 +1,16 @@
+1	09:23:02	Realtime started	
+1	11:02:13	Disconnected	
+1	11:03:02	Realtime started	
+1	11:03:28	Disconnected	
+1	11:09:28	Realtime started	
+1	11:11:36	Disconnected	
+1	11:12:46	Realtime started	
+1	11:12:50	Disconnected	
+1	11:15:59	Camera synchronization error.	Error(s) while connecting to cameras:  Camera 6 (192.168.253.9) - Error code (42): QTCP Error: Camera did not respond to connect request within 2000 ms. 
+1	11:16:07	Error(s) when initializing the cameras. Double-click for more information	Error(s) when initializing the cameras:  001 - code 13 - camera 03 (192.168.253.19) : The operation 'initialize' can not be performed in the 'disconnected' state
+1	11:18:27	Realtime started	
+1	13:36:19	Disconnected	
+1	13:36:19	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 49 - camera 01 (192.168.253.22) : The camera seems to be lagging too far behind when sending frames.
+1	15:09:02	Realtime started	
+1	18:27:19	Disconnected	
+1	18:27:19	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 49 - camera 01 (192.168.253.22) : The camera seems to be lagging too far behind when sending frames.

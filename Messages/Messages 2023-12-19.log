@@ -1,0 +1,37 @@
+1	11:10:08	Realtime started	
+1	11:21:57	Disconnected	
+1	11:22:00	Realtime started	
+1	11:27:12	Rigid body: ariel added.	The new body definition was added to the Project Options.
+1	11:27:12	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple matches in the trajectory list. Only the top-most match will be used when calculating 6D data.
+1	11:28:11	Rigid body: ariel added.	The new body definition was added to the Project Options.
+1	11:28:58	Rigid body: ariel added.	The new body definition was added to the Project Options.
+1	11:28:58	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple matches in the trajectory list. Only the top-most match will be used when calculating 6D data.
+1	11:29:24	Disconnected	
+1	11:29:27	Realtime started	
+1	11:36:16	Disconnected	
+1	11:36:18	Realtime started	
+1	11:37:55	Disconnected	
+1	11:37:57	Realtime started	
+1	12:58:22	File created	
+1	12:58:22	File saved as C:\Users\Hydrolab\Documents\Qualisys_Default_MCLab\Calibrations\20231219_125520.qca	
+1	12:58:23	Calibration started	
+1	12:58:28	Calibration finished after 5.0793 seconds	
+1	12:58:30	File saved as C:\Users\Hydrolab\Documents\Qualisys_Default_MCLab\Calibrations\20231219_125520.qca	
+1	12:58:46	File closed	
+1	12:58:49	Realtime started	
+1	13:02:56	File created	
+1	13:02:56	File saved as C:\Users\Hydrolab\Documents\Qualisys_Default_MCLab\Calibrations\20231219_125955.qca	
+1	13:02:57	Calibration started	
+1	13:03:00	Calibration finished after 3.1415 seconds	
+1	13:03:02	File saved as C:\Users\Hydrolab\Documents\Qualisys_Default_MCLab\Calibrations\20231219_125955.qca	
+1	13:04:03	File closed	
+1	13:04:06	Realtime started	
+1	13:19:45	Disconnected	
+1	13:19:47	Realtime started	
+1	16:38:39	Disconnected	
+1	16:38:41	Realtime started	
+1	17:23:39	Disconnected	
+1	17:23:42	Realtime started	
+1	18:00:32	Rigid body: ariel added.	The new body definition was added to the Project Options.
+1	22:33:40	Disconnected	
+1	22:33:40	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 49 - camera 07 (192.168.253.9) : The camera seems to be lagging too far behind when sending frames.

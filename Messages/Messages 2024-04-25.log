@@ -1,0 +1,13 @@
+1	15:26:18	Realtime started	
+1	15:26:26	Disconnected	
+1	15:30:20	Realtime started	
+1	17:42:14	Disconnected	
+1	17:42:14	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 49 - camera 07 (192.168.253.9) : The camera seems to be lagging too far behind when sending frames.
+1	17:43:18	Realtime started	
+1	17:43:28	Recalibration recommended	Camera 5 has very few contributions to the 3D reconstruction.
+1	17:43:28	File created	
+1	17:43:50	File closed	
+1	17:43:51	Realtime started	
+1	19:43:57	Disconnected	
+1	19:43:57	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 49 - camera 07 (192.168.253.9) : The camera seems to be lagging too far behind when sending frames.
+1	19:45:22	Realtime started	

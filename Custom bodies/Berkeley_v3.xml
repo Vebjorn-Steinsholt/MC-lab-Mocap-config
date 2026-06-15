@@ -1,0 +1,73 @@
+<QTM_Body_File_Ver_1.00>
+    <Body>
+        <Name>Voyager</Name>
+        <Enabled>true</Enabled>
+        <Color R="0" G="255" B="0"/>
+        <MaximumResidual>10.000000</MaximumResidual>
+        <MinimumMarkersInBody>3</MinimumMarkersInBody>
+        <BoneLengthTolerance>5.000000</BoneLengthTolerance>
+        <Filter Preset="No filter"/>
+        <Mesh>
+            <Name/>
+            <Position X="0.000000" Y="0.000000" Z="0.000000"/>
+            <Rotation X="0.000000" Y="0.000000" Z="0.000000"/>
+            <Scale>1.000000</Scale>
+            <Opacity>1.000000</Opacity>
+        </Mesh>
+        <Points>
+            <Point X="-358.608647" Y="-149.339609" Z="-248.214077" Virtual="0" PhysicalId="0" Name="Body_1 - 1"/>
+            <Point X="345.673459" Y="124.549893" Z="-159.594268" Virtual="0" PhysicalId="0" Name="Body_1 - 2"/>
+            <Point X="29.000000" Y="125.000000" Z="-185.000000" Virtual="0" PhysicalId="0" Name="Body_1 - 3"/>
+            <Point X="-379.427913" Y="106.228685" Z="-220.746225" Virtual="0" PhysicalId="0" Name="Body_1 - 4"/>
+        </Points>
+        <Data_origin X="0.000000" Y="0.000000" Z="0.000000" Relative_body="1">0</Data_origin>
+        <Data_orientation R11="1.000000" R12="0.000000" R13="0.000000" R21="0.000000" R22="1.000000" R23="0.000000" R31="0.000000" R32="0.000000" R33="1.000000" Relative_body="1">0</Data_orientation>
+    </Body>
+    <Body>
+        <Name>markus2</Name>
+        <Enabled>false</Enabled>
+        <Color R="0" G="0" B="255"/>
+        <MaximumResidual>10.000000</MaximumResidual>
+        <MinimumMarkersInBody>3</MinimumMarkersInBody>
+        <BoneLengthTolerance>5.000000</BoneLengthTolerance>
+        <Filter Preset="No filter"/>
+        <Mesh>
+            <Name/>
+            <Position X="0.000000" Y="0.000000" Z="0.000000"/>
+            <Rotation X="0.000000" Y="0.000000" Z="0.000000"/>
+            <Scale>1.000000</Scale>
+            <Opacity>1.000000</Opacity>
+        </Mesh>
+        <Points>
+            <Point X="-53.184297" Y="-18.560943" Z="-49.602849" Virtual="0" PhysicalId="0" Name="markus2 - 1"/>
+            <Point X="40.617071" Y="-25.529775" Z="43.142468" Virtual="0" PhysicalId="0" Name="markus2 - 2"/>
+            <Point X="12.567226" Y="44.090718" Z="6.460382" Virtual="0" PhysicalId="0" Name="markus2 - 3"/>
+        </Points>
+        <Data_origin X="0.000000" Y="0.000000" Z="0.000000" Relative_body="1">0</Data_origin>
+        <Data_orientation R11="1.000000" R12="0.000000" R13="0.000000" R21="0.000000" R22="1.000000" R23="0.000000" R31="0.000000" R32="0.000000" R33="1.000000" Relative_body="1">0</Data_orientation>
+    </Body>
+    <Body>
+        <Name>Drillship</Name>
+        <Enabled>true</Enabled>
+        <Color R="255" G="0" B="255"/>
+        <MaximumResidual>10.000000</MaximumResidual>
+        <MinimumMarkersInBody>3</MinimumMarkersInBody>
+        <BoneLengthTolerance>5.000000</BoneLengthTolerance>
+        <Filter Preset="No filter"/>
+        <Mesh>
+            <Name/>
+            <Position X="0.000000" Y="0.000000" Z="0.000000"/>
+            <Rotation X="0.000000" Y="0.000000" Z="0.000000"/>
+            <Scale>1.000000</Scale>
+            <Opacity>1.000000</Opacity>
+        </Mesh>
+        <Points>
+            <Point X="957.823590" Y="-101.421019" Z="-171.222554" Virtual="0" PhysicalId="0" Name="Body_3 - 1"/>
+            <Point X="-965.779900" Y="128.917398" Z="-25.016530" Virtual="0" PhysicalId="0" Name="Body_3 - 2"/>
+            <Point X="-253.335647" Y="-225.820758" Z="154.678745" Virtual="0" PhysicalId="0" Name="Body_3 - 3"/>
+            <Point X="261.291957" Y="198.324380" Z="41.560338" Virtual="0" PhysicalId="0" Name="Body_3 - 4"/>
+        </Points>
+        <Data_origin X="158.000000" Y="187.500000" Z="-225.000000" Relative_body="1">2</Data_origin>
+        <Data_orientation R11="1.000000" R12="0.000000" R13="0.000000" R21="0.000000" R22="1.000000" R23="0.000000" R31="0.000000" R32="0.000000" R33="1.000000" Relative_body="1">2</Data_orientation>
+    </Body>
+</QTM_Body_File_Ver_1.00>

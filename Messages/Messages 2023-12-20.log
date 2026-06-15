@@ -1,0 +1,14 @@
+1	08:58:48	Realtime started	
+1	08:59:03	Disconnected	
+1	12:34:29	Realtime started	
+1	12:48:59	Rigid body: ariel added.	The new body definition was added to the Project Options.
+1	12:48:59	Multiple label matches for 6D body points	5 of the marker names of points of a rigid body had multiple matches in the trajectory list. Only the top-most match will be used when calculating 6D data.
+1	12:49:31	Disconnected	
+1	12:49:33	Realtime started	
+1	13:25:38	Disconnected	
+1	13:25:41	Realtime started	
+1	13:27:39	Disconnected	
+1	13:27:48	Realtime started	
+1	13:29:04	Rigid body: aril added.	The new body definition was added to the Project Options.
+1	17:27:34	Disconnected	
+1	17:27:34	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 49 - camera 07 (192.168.253.9) : The camera seems to be lagging too far behind when sending frames.
