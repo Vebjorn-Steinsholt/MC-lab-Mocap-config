@@ -1,2 +1,0 @@
-1	12:59:00	Disconnected	
-1	12:59:00	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 49 - camera 07 (192.168.253.9) : The camera seems to be lagging too far behind when sending frames.

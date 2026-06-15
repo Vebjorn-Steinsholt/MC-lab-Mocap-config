@@ -1,3 +1,0 @@
-1	08:07:38	Realtime started	
-1	11:00:26	Disconnected	
-1	11:00:26	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 03 (192.168.253.9) : The camera has stopped communicating. 002 - code 09 - camera 04 (192.168.253.15) : The camera has stopped communicating. 003 - code 09 - camera 05 (192.168.253.19) : The camera has stopped communicating. 004 - code 09 - camera 06 (192.168.253.20) : The camera has stopped communicating.
