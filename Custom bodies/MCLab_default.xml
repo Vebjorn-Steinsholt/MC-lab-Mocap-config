@@ -39,11 +39,11 @@
             <Opacity>1.000000</Opacity>
         </Mesh>
         <Points>
-            <Point X="901.476185" Y="21.310076" Z="-431.007031" Virtual="0" PhysicalId="0" Name="Body_2 - 1"/>
+            <Point X="923.842096" Y="138.484485" Z="-419.731067" Virtual="0" PhysicalId="0" Name="Body_2 - 1"/>
             <Point X="158.000000" Y="187.500000" Z="-225.000000" Virtual="0" PhysicalId="0" Name="Body_2 - 2"/>
-            <Point X="-27.760264" Y="109.518555" Z="-17.622862" Virtual="0" PhysicalId="0" Name="Body_2 - 3"/>
-            <Point X="-284.319197" Y="-326.786368" Z="-115.820532" Virtual="0" PhysicalId="0" Name="Body_2 - 4"/>
-            <Point X="-1086.501884" Y="-125.675887" Z="-269.756561" Virtual="0" PhysicalId="0" Name="Body_2 - 5"/>
+            <Point X="-14.462747" Y="82.541013" Z="-18.430725" Virtual="0" PhysicalId="0" Name="Body_2 - 3"/>
+            <Point X="-193.019335" Y="-391.244447" Z="-112.917166" Virtual="0" PhysicalId="0" Name="Body_2 - 4"/>
+            <Point X="-1014.296045" Y="-323.395513" Z="-280.451016" Virtual="0" PhysicalId="0" Name="Body_2 - 5"/>
         </Points>
         <Data_origin X="0.000000" Y="0.000000" Z="0.000000" Relative_body="1">0</Data_origin>
         <Data_orientation R11="1.000000" R12="0.000000" R13="0.000000" R21="0.000000" R22="1.000000" R23="0.000000" R31="0.000000" R32="0.000000" R33="1.000000" Relative_body="1">0</Data_orientation>
